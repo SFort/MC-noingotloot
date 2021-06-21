@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "tf.ssf.sfort.noingotloot.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "DropNugs"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
